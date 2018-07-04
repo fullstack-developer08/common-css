@@ -1,0 +1,6 @@
+.Offer__sticky-bar-wrapper {
+  background-color: #FFFFFF;
+  color: #333333;
+  position: -webkit-sticky;
+  position: sticky;
+  bottom: 0; }
